@@ -1,0 +1,5 @@
+DataFolder = "/var/lib/navidrome"
+MusicFolder = "/media/storage/root/Music"
+
+LastFM.ApiKey = ""
+LastFM.Secret = ""
